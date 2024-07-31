@@ -47,7 +47,7 @@ var container = document.querySelector(".container")
 //     var red = Math.ceil(Math.random()*255);
 //     var green = Math.ceil(Math.random()*255);
 //     var blue = Math.ceil(Math.random()*255);
-    return `rgb(${red},${green},${blue})`
+    // return `rgb(${red},${green},${blue})`
 // }
 // setInterval(()=>{
 //     // console.log("Welcome")
